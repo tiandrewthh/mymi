@@ -29,7 +29,7 @@ page_sections:
   image:
     image: "/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg"
     alt_text: Product Shot
-  background_image: "/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg"
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
