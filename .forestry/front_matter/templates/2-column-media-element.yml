@@ -1,5 +1,5 @@
 ---
-label: 2-column-media-element
+label: 4-column-media-element
 hide_body: false
 is_partial: true
 display_field: block
@@ -29,3 +29,7 @@ fields:
   - type: text
     name: caption
     label: Caption
+- type: file
+  name: third_image
+  label: Third image
+  default: mymi/uploads/2019/01/16/MIME_Logo_Master (high res).jpg
