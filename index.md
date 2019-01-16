@@ -60,6 +60,8 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   third_image: mymi/uploads/2019/01/16/MIME_Logo_Master (high res).jpg
+  image_1:
+    image: mymi/uploads/2019/01/16/MU-Engineering.png
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
