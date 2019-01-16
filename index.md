@@ -28,7 +28,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg"
-    alt_text: Product Shot
+    alt_text: Surgery
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
