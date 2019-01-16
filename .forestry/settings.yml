@@ -19,9 +19,9 @@ sections:
   exclude: "*README.md"
   new_doc_ext: md
 upload_dir: uploads
-public_path: "/uploads"
+public_path: mymi/uploads
 front_matter_path: ''
-use_front_matter_path: true
+use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
 build:
   preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
