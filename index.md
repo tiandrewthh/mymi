@@ -23,7 +23,7 @@ page_sections:
   headline: "<strong>MYMI</strong><br>Monash Young MedTech Innovators"
   content: Dedicated to furthering positive impact through medical technology.
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
