@@ -11,7 +11,7 @@ fields:
 - type: file
   name: image
   label: Image
-  default: "/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg"
+  default: ''
 - type: text
   name: caption
   label: Caption
