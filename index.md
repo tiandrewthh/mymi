@@ -7,6 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/01/16/test.png"
   navigation:
+  - link: Events
   - link: "/"
     link_text: Home
   - link: "#"
