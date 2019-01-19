@@ -41,7 +41,8 @@ page_sections:
   content: 'We are an interdisciplinary community of undergraduates, postgraduates
     and early career researchers (ECRs) dedicated to achieving positive impact through
     medical technology and biomedical innovation. <br><br>Based at Monash University,
-    founded in late 2018. '
+    founded in late 2018. Open to all, regardless of home institution, discipline
+    or experience. '
   media:
     image: uploads/2019/01/19/typewriter.gif
     alt_text: Customize Blocks
