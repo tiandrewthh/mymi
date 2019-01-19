@@ -8,7 +8,7 @@ fields:
   hidden: true
   label: block
   name: block
-  default: media-2
+  default: media-4
 - type: field_group
   name: image_1
   label: " First Image"
@@ -29,7 +29,6 @@ fields:
   - type: text
     name: caption
     label: Caption
-- type: file
-  name: third_image
-  label: Third image
-  default: mymi/uploads/2019/01/16/MIME_Logo_Master (high res).jpg
+- type: include
+  name: ''
+  label: ''
