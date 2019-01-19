@@ -80,8 +80,8 @@ page_sections:
     caption: Monash Institute of Medical Engineering
 - template: simple-footer
   block: footer-1
-  content: Created with <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwin6oDO6_jfAhU5JrkGHTYaBOIQFjAAegQIWxAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhot-beverage%2F&amp;usg=AOvVaw0KJlePCXwWJuOaMjwfX5yf">☕</a>
-    and ❤️ by Darren Rajit <br><br>Hosted on GitHub Pages
+  content: Brought to you by <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwin6oDO6_jfAhU5JrkGHTYaBOIQFjAAegQIWxAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhot-beverage%2F&amp;usg=AOvVaw0KJlePCXwWJuOaMjwfX5yf">☕</a>
+    and ❤️ <br><br>Design by Darren Rajit<br><br>Hosted on GitHub Pages
 
 ---
 foo bar
