@@ -73,6 +73,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Founding Partners
+  content: "A toast to the folks who were with us from the start. <a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=15&amp;ved=2ahUKEwi8xo76nfrfAhVBVH0KHTTkB1YQFjAOegQIJRAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhatching-chick%2F&amp;usg=AOvVaw2iDnHv50XyDsmtzlGtPILb\">\U0001F423</a>"
 - template: 2-column-media-element
   block: media-2
   third_image: ''
