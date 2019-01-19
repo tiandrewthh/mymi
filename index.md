@@ -23,7 +23,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Monash Young MedTech Innovators | <br><strong>MYMI</strong>
-  content: Dedicated to furthering positive impact through medical technology.
+  content: Dedicated to furthering positive impact through medical technology and
+    healthcare innovation.
   cta:
     enabled: true
     url: "#"
