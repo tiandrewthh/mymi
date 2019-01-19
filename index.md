@@ -22,8 +22,10 @@ page_sections:
     button_text: 'MED_HACK 2019 : ENABLED'
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>MYMI</strong><br>Monash Young MedTech Innovators"
-  content: Dedicated to furthering positive impact through medical technology.
+  headline: '<strong><span style="text-decoration: underline;">M.Y.M.I</span></strong><br>Monash
+    Young MedTech Innovators'
+  content: Dedicated to furthering positive impact through medical technology and
+    healthcare innovation.
   cta:
     enabled: true
     url: "#"
@@ -35,9 +37,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Trying stuff out </strong>"
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: "<strong>WHO WE ARE</strong>"
+  content: We are an interdisciplinary community of undergraduates, postgraduates
+    and early career researchers (ECRs) dedicated to achieving positive impact through
+    medical technology and biomedical innovation. Based at Monash University, founded
+    in late 2018. <br><br>And above all, human.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
