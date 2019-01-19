@@ -1,0 +1,8 @@
+---
+label: partners
+hide_body: false
+is_partial: false
+fields:
+- type: image_gallery
+  label: partner logos
+  name: partners
