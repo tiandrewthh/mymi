@@ -18,6 +18,7 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - partners
   - navigation-header
   - navigation-header-w-button
   - simple-header
@@ -32,9 +33,5 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
-- type: include
-  template: partners
-  label: partner_logos
-  name: partners
 pages:
 - index.md
