@@ -35,8 +35,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
+  headline: <strong>Customize Blocks</strong><span class="light"> to make quick edits
+    throughout your new site, and other stuff</span>
   content: Each block comes with custom Front Matter that can easily be edited in
     Forestry's UI.
   media:
