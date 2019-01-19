@@ -61,7 +61,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: 2-column-media-element
   block: media-2
-  third_image: mymi/uploads/2019/01/16/MIME_Logo_Master (high res).jpg
+  third_image: "/uploads /2019/01/16/test.png"
   image_1:
     image: "/2019/01/16/MIME_Logo_Master (high res).jpg"
   image_2:
