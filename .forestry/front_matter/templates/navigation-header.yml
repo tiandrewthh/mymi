@@ -19,6 +19,7 @@ fields:
   - type: text
     name: link
     label: link
+    default: www.mymi.org.aui
   - type: text
     name: link_text
     label: Link text
