@@ -67,8 +67,9 @@ page_sections:
     alt_text: Site visit
 - template: 1-column-text
   block: one-column-1
-  headline: 'UPCOMING EVENTS '
-  content: "Upcoming meetups, projects and misc. events placeholder. \U0001F447"
+  headline: HIGHLIGHTS
+  content: 'Upcoming meetups, events and projects currently in the oven. Watch this
+    space! '
 - template: 2-column-media-element
   block: media-2
   third_image: ''
