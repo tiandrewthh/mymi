@@ -5,7 +5,7 @@ date: 2018-01-16 12:53:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/2019/01/16/test.png"
+  logo: "/uploads /2019/01/16/MIME_Logo_Master (high res).jpg"
   navigation:
   - link: "/"
     link_text: Home
@@ -29,7 +29,7 @@ page_sections:
     url: "#"
     button_text: 'About Us '
   image:
-    image: /uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg
+    image: "/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg"
     alt_text: surgery
   background_image: "/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg"
 - template: content-feature
