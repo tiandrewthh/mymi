@@ -29,7 +29,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: mymi/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg
+    image: ''
     alt_text: surgery
   background_image: ''
 - template: content-feature
