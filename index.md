@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2018-01-16 23:53:00 +1100
+date: 2018-01-16 12:53:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -27,7 +27,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg"
+    image: ''
     alt_text: Surgery
   background_image: "/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg"
 - template: content-feature
