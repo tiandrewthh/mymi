@@ -81,10 +81,6 @@ page_sections:
     caption: ''
   headline: "**Founding Partners**"
   logo: uploads/2019/01/16/test.png
-- template: partners
-  partners:
-  - uploads/2019/01/16/MU-Engineering.png
-  - uploads/2019/01/19/MIME_Logo.jpg
 - template: simple-footer
   block: footer-1
   content: Brought to you by <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwin6oDO6_jfAhU5JrkGHTYaBOIQFjAAegQIWxAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhot-beverage%2F&amp;usg=AOvVaw0KJlePCXwWJuOaMjwfX5yf">☕</a>
