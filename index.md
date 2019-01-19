@@ -65,14 +65,13 @@ page_sections:
   media:
     image: uploads/2019/01/19/image1.png
     alt_text: Site visit
-- template: 1-column-text
-  block: one-column-1
-  headline: HIGHLIGHTS
-  content: 'Upcoming meetups, events and projects currently in the oven. Watch this
-    space! '
 - template: text-only-hero-banner
   block: hero-1
   heading: Highlights
+- template: 1-column-text
+  block: one-column-1
+  content: 'Upcoming meetups, events and projects currently in the oven. Watch this
+    space! '
 - template: text-only-hero-banner
   block: hero-1
   heading: Founding Partners
