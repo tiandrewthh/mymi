@@ -83,7 +83,7 @@ page_sections:
   image_2:
     image: uploads/2019/01/16/MU-Engineering.png
     caption: ''
-  headline: Founding Partners
+  headline: 'Founding Partners '
   logo: ''
   content: ''
 - template: simple-footer
