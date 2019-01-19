@@ -25,11 +25,11 @@ page_sections:
   headline: "<strong>MYMI</strong><br>Monash Young MedTech Innovators"
   content: Dedicated to furthering positive impact through medical technology.
   cta:
-    enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    enabled: true
+    url: "#"
+    button_text: 'About Us '
   image:
-    image: mymi/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg
+    image: ''
     alt_text: surgery
   background_image: mymi/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg
 - template: content-feature
