@@ -63,7 +63,7 @@ page_sections:
   block: media-2
   third_image: mymi/uploads/2019/01/16/MIME_Logo_Master (high res).jpg
   image_1:
-    image: mymi/uploads/2019/01/16/MU-Engineering.png
+    image: "/2019/01/16/MIME_Logo_Master (high res).jpg"
 - template: simple-footer
   block: footer-1
   content: Create with <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwin6oDO6_jfAhU5JrkGHTYaBOIQFjAAegQIWxAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhot-beverage%2F&amp;usg=AOvVaw0KJlePCXwWJuOaMjwfX5yf">☕</a>
