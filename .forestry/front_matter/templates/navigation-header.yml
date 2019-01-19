@@ -11,6 +11,7 @@ fields:
 - type: file
   name: logo
   label: Logo
+  default: mymi/uploads/2019/01/16/test.png
 - type: field_group_list
   name: navigation
   label: Navigation
