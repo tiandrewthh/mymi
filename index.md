@@ -54,6 +54,8 @@ page_sections:
     in Melbourne. We organize meetups, networking events, panel sessions, workshops
     / masterclasses, site visits and hackathons with the aim of introducing the undergraduate
     community to the MedTech sector, while bridging the worlds of industry and academia.<br><br><br>  '
+  media:
+    image: uploads/2019/01/19/image1.png
 - template: 1-column-text
   block: one-column-1
   headline: 'UPCOMING EVENTS '
