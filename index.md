@@ -63,7 +63,7 @@ page_sections:
   third_image: ''
   image_1:
     image: "/uploads /2019/01/16/MU-Engineering.png"
-    caption: ''
+    caption: Monash Engineering
   image_2:
     image: "/uploads /2019/01/16/MIME_Logo_Master (high res).jpg"
     caption: Monash Institute of Medical Engineering
