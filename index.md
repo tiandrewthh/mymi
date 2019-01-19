@@ -22,7 +22,7 @@ page_sections:
     button_text: 'MED_HACK 2019 : ENABLED'
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>MYMI |</strong><br>Monash Young MedTech Innovators"
+  headline: Monash Young MedTech Innovators | <br><strong>MYMI</strong>
   content: Dedicated to furthering positive impact through medical technology.
   cta:
     enabled: true
