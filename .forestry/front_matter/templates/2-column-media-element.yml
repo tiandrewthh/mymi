@@ -29,3 +29,12 @@ fields:
   - type: text
     name: caption
     label: Caption
+- type: textarea
+  name: headline
+  label: Headline
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+    required: true
+  default: "**FOUNDING SPONSORS**"
