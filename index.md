@@ -58,7 +58,8 @@ page_sections:
     MedTech focused community projects (and Engineering Capstone Projects) to allow
     for both soft skill and technical up-skilling. All wrapped with a chill, collaborative
     and low pressure ribbon. <a href=\"https://emojipedia.org/ok-hand-sign/\">\U0001F44C</a><br><br>Embracing
-    failure here is routine, learning always encouraged.<br><br><br>  "
+    the possibility of failure here is routine, learning always encouraged.<br><br><br>
+    \ "
   media:
     image: uploads/2019/01/19/image1.png
     alt_text: Site visit
