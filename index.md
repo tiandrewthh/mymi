@@ -46,6 +46,14 @@ page_sections:
   media:
     image: uploads/2019/01/19/typewriter.gif
     alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>WHAT WE DO.</strong>"
+  content: 'We''re here to help break down silos within the Medical Technology sector
+    in Melbourne. We organize meetups, networking events, panel sessions, workshops
+    / masterclasses and hackathons with the aim of introducing the undergraduate community
+    to the MedTech sector, while bridging the worlds of industry and academia.<br><br><br>  '
 - template: 1-column-text
   block: one-column-1
   headline: 'UPCOMING EVENTS '
