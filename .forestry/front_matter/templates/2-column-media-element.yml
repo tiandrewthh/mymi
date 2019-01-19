@@ -9,6 +9,10 @@ fields:
   label: block
   name: block
   default: media-4
+- type: include
+  name: header
+  label: header
+  template: simple-header
 - type: textarea
   name: headline
   label: Headline
