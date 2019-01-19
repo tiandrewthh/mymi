@@ -51,9 +51,10 @@ page_sections:
   media_alignment: Left
   headline: "<strong>WHAT WE DO.</strong>"
   content: 'We''re here to help break down silos within the Medical Technology sector
-    in Melbourne. We organize meetups, networking events, panel sessions, workshops
-    / masterclasses, site visits and hackathons with the aim of introducing the undergraduate
-    community to the MedTech sector, while bridging the worlds of industry and academia.<br><br><br>  '
+    in Melbourne. <br><br>We organize meetups, networking events, panel sessions,
+    workshops / masterclasses, site visits and hackathons with the aim of introducing
+    the undergraduate community to the MedTech sector, while bridging the worlds of
+    industry and academia.<br><br><br>  '
   media:
     image: uploads/2019/01/19/image1.png
     alt_text: Site visit
