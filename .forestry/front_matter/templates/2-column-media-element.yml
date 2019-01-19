@@ -18,9 +18,9 @@ fields:
       format: markdown
     required: true
 - type: include
-  name: text
+  template: text-column
   label: text
-  template: 1-column-text
+  name: text
 - type: field_group
   name: image_1
   label: " First Image"
