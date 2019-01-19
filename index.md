@@ -49,7 +49,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>WHAT WE DO.</strong>"
+  headline: "<strong>WHAT WE DO</strong>"
   content: 'We''re here to help break down silos within the Medical Technology sector
     in Melbourne. <br><br>We organize meetups, networking events, panel sessions,
     entrepreneurship workshops / masterclasses, site visits and hackathons with the
