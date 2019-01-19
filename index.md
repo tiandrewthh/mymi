@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: 'Home '
 date: 2018-01-16 12:53:00 +0000
 page_sections:
 - template: navigation-header-w-button
