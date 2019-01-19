@@ -56,6 +56,7 @@ page_sections:
     community to the MedTech sector, while bridging the worlds of industry and academia.<br><br><br>  '
   media:
     image: uploads/2019/01/19/image1.png
+    alt_text: Site visit
 - template: 1-column-text
   block: one-column-1
   headline: 'UPCOMING EVENTS '
