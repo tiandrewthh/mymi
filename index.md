@@ -31,7 +31,7 @@ page_sections:
   image:
     image: mymi/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg
     alt_text: surgery
-  background_image: mymi/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg
+  background_image: "/2019/01/16/marlon-lara-1151956-unsplash.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Right
