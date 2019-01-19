@@ -9,10 +9,6 @@ fields:
   label: block
   name: block
   default: media-4
-- type: include
-  name: header
-  label: header
-  template: simple-header
 - type: textarea
   name: headline
   label: Headline
@@ -21,6 +17,10 @@ fields:
     schema:
       format: markdown
     required: true
+- type: include
+  name: text
+  label: text
+  template: 1-column-text
 - type: field_group
   name: image_1
   label: " First Image"
