@@ -43,7 +43,7 @@ page_sections:
     medical technology and biomedical innovation. <br><br>Based at Monash University,
     founded in late 2018. <br><br>And above all, human.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: uploads/2019/01/19/Comp-1_1.gif
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
