@@ -5,7 +5,7 @@ date: 2018-01-16 12:53:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/2019/01/16/test.png"
+  logo: uploads/2019/01/16/test.png
   navigation:
   - link: "/"
     link_text: Home
@@ -19,7 +19,7 @@ page_sections:
     link: "#"
   cta:
     url: http://medhack.com.au/
-    button_text: MED_HACK 2019
+    button_text: 'MED_HACK 2019 : ENABLED'
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>MYMI</strong><br>Monash Young MedTech Innovators"
@@ -62,11 +62,11 @@ page_sections:
   block: media-2
   third_image: ''
   image_1:
-    image: "/2019/01/16/MIME_Logo_Master (high res).jpg"
-    caption: ''
+    image: uploads/2019/01/19/Actuator1.png
+    caption: The Actuator
   image_2:
-    image: "/2019/01/16/MU-Engineering.png"
-    caption: monash engineering
+    image: uploads/2019/01/19/MIME_Logo.jpg
+    caption: Monash Institute of Medical Engineering
 - template: simple-footer
   block: footer-1
   content: 'Create with <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwin6oDO6_jfAhU5JrkGHTYaBOIQFjAAegQIWxAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhot-beverage%2F&amp;usg=AOvVaw0KJlePCXwWJuOaMjwfX5yf">☕</a>
