@@ -1,11 +1,11 @@
 ---
 layout: blocks
-title: Homepage
+title: 'Home '
 date: 2018-01-16 12:53:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads /2019/01/16/test.png"
+  logo: "/2019/01/16/test.png"
   navigation:
   - link: "/"
     link_text: Home
@@ -69,8 +69,8 @@ page_sections:
     caption: monash engineering
 - template: simple-footer
   block: footer-1
-  content: Create with <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwin6oDO6_jfAhU5JrkGHTYaBOIQFjAAegQIWxAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhot-beverage%2F&amp;usg=AOvVaw0KJlePCXwWJuOaMjwfX5yf">☕</a>
-    and ❤️
+  content: 'Create with <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwin6oDO6_jfAhU5JrkGHTYaBOIQFjAAegQIWxAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhot-beverage%2F&amp;usg=AOvVaw0KJlePCXwWJuOaMjwfX5yf">☕</a>
+    and ❤️ by Darren Rajit <br>Hosted on GitHub Pages '
 
 ---
 foo bar
