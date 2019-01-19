@@ -72,6 +72,9 @@ page_sections:
     space! '
 - template: text-only-hero-banner
   block: hero-1
+  heading: Highlights
+- template: text-only-hero-banner
+  block: hero-1
   heading: Founding Partners
 - template: 2-column-media-element
   block: media-2
