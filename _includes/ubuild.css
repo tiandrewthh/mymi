@@ -817,7 +817,7 @@ input.inverted::placeholder {
 }
 
 body {
-  font-family: Source Sans Pro, Roboto, Noto Sans, Ubuntu, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Source Sans Pro',  sans-serif;
   font-size: 16px
 }
 
