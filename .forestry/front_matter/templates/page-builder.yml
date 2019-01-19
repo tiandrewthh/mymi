@@ -18,6 +18,8 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - text-column
+  - text-only-hero-banner
   - partners
   - navigation-header
   - navigation-header-w-button
@@ -33,7 +35,5 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
-- type: include
-  template: text-only-hero-banner
 pages:
 - index.md
