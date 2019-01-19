@@ -35,9 +35,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Trying stuff out </strong>"
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: "<strong>WHO WE ARE</strong>"
+  content: an interdisciplinary community of undergraduates, postgraduates and early
+    career researchers (ECRs) dedicated to achieving  positive impact through medical
+    technology and biomedical innovation. Based at Monash University, founded in late
+    2018. <br><br>Above all, human.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
