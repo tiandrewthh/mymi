@@ -4,6 +4,11 @@ hide_body: false
 is_partial: true
 display_field: block
 fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: media-4
 - type: textarea
   name: headline
   label: Headline
@@ -12,7 +17,6 @@ fields:
     schema:
       format: markdown
     required: true
-  default: "**FOUNDING SPONSORS**"
 - type: field_group
   name: image_1
   label: " First Image"
@@ -23,11 +27,6 @@ fields:
   - type: text
     name: caption
     label: Caption
-- type: text
-  hidden: true
-  label: block
-  name: block
-  default: media-4
 - type: field_group
   name: image_2
   label: Second Image
