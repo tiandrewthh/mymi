@@ -33,5 +33,7 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+- type: include
+  template: text-only-hero-banner
 pages:
 - index.md
