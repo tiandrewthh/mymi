@@ -50,16 +50,14 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: "<strong>WHAT WE DO.</strong>"
-  content: "We're here to help break down silos within the Medical Technology sector
+  content: 'We''re here to help break down silos within the Medical Technology sector
     in Melbourne. <br><br>We organize meetups, networking events, panel sessions,
-    workshops / masterclasses, site visits and hackathons with the aim of introducing
-    the undergraduate community to the MedTech sector, while bridging the worlds of
-    industry and academia.<br><br>Additionally for students, we facilitate and source
-    MedTech focused community projects (and Engineering Capstone Projects) to allow
-    for both soft skill and technical up-skilling. All wrapped with a chill, collaborative
-    and low pressure ribbon. \U0001F380<br><br>Embracing the possibility of failure
-    here is routine, learning always encouraged. <a href=\"https://emojipedia.org/ok-hand-sign/\">\U0001F44C</a><br><br><br>
-    \ "
+    entrepreneurship workshops / masterclasses, site visits and hackathons with the
+    aim of introducing the undergraduate community to the MedTech sector, whilst bridging
+    the worlds of industry and academia.<br><br>Additionally for students, we facilitate
+    and source MedTech focused community projects (and Engineering Capstone Projects)
+    to allow for both soft skill and technical up-skilling. All wrapped in a relaxed
+    and collaborative package. '
   media:
     image: uploads/2019/01/19/image1.png
     alt_text: Site visit
