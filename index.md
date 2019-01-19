@@ -28,7 +28,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: mymi/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg
-    alt_text: Surgery
+    alt_text: ''
   background_image: ''
 - template: content-feature
   block: feature-1
