@@ -1,5 +1,5 @@
 ---
-label: 4-column-media-element
+label: 2-column-media-element
 hide_body: false
 is_partial: true
 display_field: block
@@ -29,6 +29,3 @@ fields:
   - type: text
     name: caption
     label: Caption
-- type: include
-  name: ''
-  label: ''
