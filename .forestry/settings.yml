@@ -19,7 +19,7 @@ sections:
   exclude: "*README.md"
   new_doc_ext: md
 upload_dir: uploads
-public_path: mymi/uploads
+public_path: uploads
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":year:/:month:/:day:/:filename:"
