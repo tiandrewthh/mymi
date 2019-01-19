@@ -29,7 +29,7 @@ page_sections:
     url: "#"
     button_text: 'About Us '
   image:
-    image: mymi/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg
+    image: /uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg
     alt_text: surgery
   background_image: "/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg"
 - template: content-feature
