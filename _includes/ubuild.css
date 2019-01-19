@@ -815,7 +815,7 @@ input.inverted::placeholder {
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, Source Sans Pro, Roboto, Noto Sans, Ubuntu, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: Source Sans Pro, Roboto, Noto Sans, Ubuntu, Droid Sans, Helvetica Neue, sans-serif;
   font-size: 16px
 }
 
