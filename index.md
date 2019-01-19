@@ -38,10 +38,10 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>WHO WE ARE</strong>"
-  content: We are an interdisciplinary community of undergraduates, postgraduates
+  content: 'We are an interdisciplinary community of undergraduates, postgraduates
     and early career researchers (ECRs) dedicated to achieving positive impact through
     medical technology and biomedical innovation. <br><br>Based at Monash University,
-    founded in late 2018. <br><br>And above all, human.
+    founded in late 2018. '
   media:
     image: uploads/2019/01/19/typewriter.gif
     alt_text: Customize Blocks
