@@ -74,11 +74,11 @@ page_sections:
   block: media-2
   third_image: ''
   image_1:
-    image: uploads/2019/01/19/Actuator1.png
-    caption: The Actuator
-  image_2:
     image: uploads/2019/01/19/MIME_Logo.jpg
-    caption: Monash Institute of Medical Engineering
+    caption: ''
+  image_2:
+    image: uploads/2019/01/16/MU-Engineering.png
+    caption: ''
   headline: "**Founding Partners**"
 - template: simple-footer
   block: footer-1
