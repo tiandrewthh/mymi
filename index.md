@@ -70,6 +70,9 @@ page_sections:
   headline: HIGHLIGHTS
   content: 'Upcoming meetups, events and projects currently in the oven. Watch this
     space! '
+- template: 1-column-text
+  block: one-column-1
+  headline: Founding Partners
 - template: 2-column-media-element
   block: media-2
   third_image: ''
