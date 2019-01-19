@@ -1,10 +1,9 @@
-title: uBuild Design Blocks
+title: MYMI
 author: Forestry.io
 email: info@mymi.org.au
 description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
+MYMI (Monash Young MedTech Innovators) is an interdisciplinary community of undergraduates, postgraduates and early career researchers (ECRs) dedicated to achieving
+positive impact through medical technology and biomedical innovation. Based at Monash University, founded in late 2018.
 baseurl:  "" # the subpath of your site, e.g. /blog
 url: "https://www.mymi.org.au/" # your site's origin, e.g. https://forestry.io
 
