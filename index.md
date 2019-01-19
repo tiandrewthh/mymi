@@ -10,9 +10,7 @@ page_sections:
   - link: "/"
     link_text: Home
   - link: "#"
-    link_text: Features
-  - link: "#"
-    link_text: Pricing
+    link_text: Get Involved
   - link: "#"
     link_text: Team
   cta:
