@@ -18,7 +18,7 @@ page_sections:
   - link_text: 'Contact Us '
     link: "#"
   cta:
-    url: www.medhack.com.au
+    url: http://medhack.com.au/
     button_text: MED_HACK 2019
 - template: hero-banner-w-image
   block: hero-2
