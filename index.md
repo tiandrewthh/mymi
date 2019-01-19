@@ -54,7 +54,10 @@ page_sections:
     in Melbourne. <br><br>We organize meetups, networking events, panel sessions,
     workshops / masterclasses, site visits and hackathons with the aim of introducing
     the undergraduate community to the MedTech sector, while bridging the worlds of
-    industry and academia.<br><br><br>  '
+    industry and academia.<br><br>Additionally for students, we facilitate and source
+    MedTech focused community projects (and Engineering Capstone Projects) to allow
+    for both soft skill and technical up-skilling. All wrapped with a chill, collaborative
+    and low pressure ribbon. :)<br><br><br>  '
   media:
     image: uploads/2019/01/19/image1.png
     alt_text: Site visit
