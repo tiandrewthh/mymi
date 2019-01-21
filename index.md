@@ -28,7 +28,7 @@ page_sections:
     healthcare innovation.
   cta:
     enabled: true
-    url: "#"
+    url: https://mymi.org.au/about-us
     button_text: 'About Us '
   image:
     image: ''
