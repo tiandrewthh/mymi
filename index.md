@@ -9,12 +9,12 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#"
-    link_text: Events
-  - link: "/about-us"
-    link_text: 'About Us '
   - link: mymi.org.au/get-involved
     link_text: Get Involved
+  - link: "/about-us"
+    link_text: 'About Us '
+  - link: "#"
+    link_text: Events
   - link_text: 'Contact Us '
     link: "#"
   cta:
