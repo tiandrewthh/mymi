@@ -63,8 +63,8 @@ page_sections:
     Engineering Capstone Projects) to allow for both soft skill and technical up-skilling.
     All wrapped in a relaxed and collaborative environment."
   media:
-    image: uploads/2019/01/19/image1.png
-    alt_text: Site visit
+    image: uploads/2019/01/21/received_544338212713300-01.jpeg
+    alt_text: working hard or hardly working
 - template: text-only-hero-banner
   block: hero-1
   heading: Highlights
