@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: About Us
+title: About
 date: 2018-01-16 12:53:00 +0000
 page_sections:
 - template: navigation-header-w-button
