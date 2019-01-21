@@ -37,16 +37,14 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>FIRST, START WITH WHY.</strong>"
+  headline: '<strong><span style="text-decoration: underline;">FIRST, START WITH WHY.</span></strong>'
   content: We're here to help build the pipeline that will grow and nurture Melbourne's
     future startup and MedTech ecosystem. 1 bright napkin sketch at a time.<br><br>We
     exist to engage, empower and equip students and researchers alike with the skills,
     network and experience they need to bring truly life-changing technology to the
     world. <br><br>We're tech agnostic. It can be an app, a medical device or the
     new stress reliever ball 2.0<span class="ILfuVd">™</span> . As long as it produces
-    an improvement in health outcomes, we'll work with you.<br><br>Long story short,
-    we exist to help those who need the push to bring their vision for a healthier
-    world to life, and nurture talent that will join them on their way. <br><br>
+    an improvement in health outcomes, we'll work with you.
   media:
     image: uploads/2019/01/19/typewriter.gif
     alt_text: Customize Blocks
