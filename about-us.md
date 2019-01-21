@@ -25,7 +25,7 @@ page_sections:
   headline: "<strong><span style=\"text-decoration: underline;\">HELLO.</span></strong>
     <a href=\"https://emojipedia.org/waving-hand-sign/\">\U0001F44B</a><strong><span
     style=\"text-decoration: underline;\"><br></span></strong>We're glad you're here. "
-  content: Stay a while, and get to know us!
+  content: Stay a while, and get to know us.
   cta:
     enabled: false
     url: "#"
