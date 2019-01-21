@@ -72,21 +72,6 @@ page_sections:
   block: one-column-1
   content: Upcoming meetups, events and projects currently in the oven. Watch this
     space! ✌️
-- template: text-only-hero-banner
-  block: hero-1
-  heading: Founding Partners
-- template: 2-column-media-element
-  block: media-2
-  third_image: ''
-  image_1:
-    image: uploads/2019/01/19/MIME_Logo.jpg
-    caption: ''
-  image_2:
-    image: uploads/2019/01/16/MU-Engineering.png
-    caption: ''
-  headline: 'Founding Partners '
-  logo: ''
-  content: ''
 - template: simple-footer
   block: footer-1
   content: Brought to you by <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwin6oDO6_jfAhU5JrkGHTYaBOIQFjAAegQIWxAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhot-beverage%2F&amp;usg=AOvVaw0KJlePCXwWJuOaMjwfX5yf">☕</a>
