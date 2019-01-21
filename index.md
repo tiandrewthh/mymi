@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   - link: "#"
     link_text: Events
-  - link: "#"
+  - link: mymi.org.au/about-us
     link_text: 'About Us '
   - link: "#"
     link_text: Get Involved
