@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: mymi.org.au/get-involved
+  - link: "/get-involved"
     link_text: Get Involved
   - link: "/about-us"
     link_text: 'About Us '
