@@ -22,18 +22,18 @@ page_sections:
     button_text: 'MED_HACK 2019 : ENABLED'
 - template: hero-banner-w-image
   block: hero-2
-  headline: '<strong><span style="text-decoration: underline;">M.Y.M.I</span></strong><br>Monash
-    Young MedTech Innovators'
-  content: Dedicated to furthering positive impact through medical technology and
-    healthcare innovation.
+  headline: "<strong><span style=\"text-decoration: underline;\">HELLO.</span></strong>
+    <a href=\"https://emojipedia.org/waving-hand-sign/\">\U0001F44B</a><strong><span
+    style=\"text-decoration: underline;\"><br></span></strong>We're glad you're here. "
+  content: Stay a while, and get to know us!
   cta:
-    enabled: true
+    enabled: false
     url: "#"
     button_text: 'About Us '
   image:
-    image: ''
+    image: uploads/2019/01/16/test.png
     alt_text: ''
-  background_image: "/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
