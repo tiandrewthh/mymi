@@ -9,6 +9,13 @@ page_sections:
   navigation:
   - link: "/home"
     link_text: Home
+  - link: "/pages-get-involved "
+    link_text: Get Involved
+  - {}
+  - link_text: Events
+    link: "/events"
+  - link: "/contact-us"
+    link_text: 'Contact Us '
   cta:
     url: http://medhack.com.au/
     button_text: 'MED_HACK 2019 : ENABLED'
