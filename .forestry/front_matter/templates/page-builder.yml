@@ -36,8 +36,8 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- index.md
 - about-us.md
 - events.md
 - get-involved.md
 - contact-us.md
+- index.md
