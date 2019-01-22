@@ -44,7 +44,8 @@ page_sections:
     vibes guaranteed. <br><br>Amongst our events for the year we intend on running
     a hackathon based <br>around assistive technology, as well as industry nights
     and industry <br>site visits.<br><br> Submit an EOI here: <a href="https://goo.gl/forms/3qC65VbF7dmMxKJc2"
-    title="Submit and E.O.I here! ">https://goo.gl/forms/3qC65VbF7dmMxKJc2</a>'
+    title="Submit and E.O.I here! ">https://goo.gl/forms/3qC65VbF7dmMxKJc2</a><br><br>Questions?
+    Knock knock jokes? Suggestions? Reach us at: info@mymi.org.au'
   media:
     image: uploads/2019/01/22/48392026_1208453455979294_6002435714938044416_o.jpg
     alt_text: 3D Printer Labs
