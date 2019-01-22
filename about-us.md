@@ -11,7 +11,8 @@ page_sections:
     link_text: Home
   - link: "/pages-get-involved "
     link_text: Get Involved
-  - {}
+  - link_text: 'About Us '
+    link: "/about-us"
   - link_text: Events
     link: "/events"
   - link: "/contact-us"
