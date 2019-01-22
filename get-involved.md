@@ -29,9 +29,9 @@ page_sections:
     url: https://goo.gl/forms/3qC65VbF7dmMxKJc2
     button_text: 'Express interest here. '
   image:
-    image: ''
+    image: uploads/2019/01/16/test.png
     alt_text: ''
-  background_image: uploads/2019/01/16/test.png
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
