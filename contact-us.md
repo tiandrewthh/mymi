@@ -22,10 +22,9 @@ page_sections:
     button_text: 'MED_HACK 2019 : ENABLED'
 - template: hero-banner-w-image
   block: hero-2
-  headline: '<strong><span style="text-decoration: underline;">M.Y.M.I</span></strong><br>Monash
-    Young MedTech Innovators'
-  content: Dedicated to furthering positive impact through medical technology and
-    healthcare innovation.
+  headline: "<strong><span style=\"text-decoration: underline;\">CONTACT US</span>
+    \ </strong>\U0001F4F1"
+  content: ''
   cta:
     enabled: true
     url: https://mymi.org.au/about-us
@@ -33,7 +32,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2019/01/16/marlon-lara-1151956-unsplash.jpg"
+  background_image: ''
 - template: 1-column-text
   block: one-column-1
   headline: 'UNDER CONSTRUCTION '
