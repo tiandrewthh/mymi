@@ -37,7 +37,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>WE'RE INVITING EXPRESSIONS OF INTEREST.</strong>"
+  headline: "<strong>JOIN THE FOUNDING COMMITTEE! WE'RE INVITING EXPRESSIONS OF INTEREST.</strong>"
   content: Interested in medical technology, biomedical innovation, building your&nbsp;<br>network
     (and CPD hours) and working with like minded peers to develop achieve positive
     impact with your degree? <br><br>We're building our founding committee and are
