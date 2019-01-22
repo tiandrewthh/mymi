@@ -22,14 +22,12 @@ page_sections:
     button_text: 'MED_HACK 2019 : ENABLED'
 - template: hero-banner-w-image
   block: hero-2
-  headline: '<strong><span style="text-decoration: underline;">M.Y.M.I</span></strong><br>Monash
-    Young MedTech Innovators'
-  content: Dedicated to furthering positive impact through medical technology and
-    healthcare innovation.
+  headline: '<strong><span style="text-decoration: underline;">JUMP IN AND GET INVOLVED.</span></strong>'
+  content: "The water's great. \U0001F30A"
   cta:
     enabled: true
-    url: https://mymi.org.au/about-us
-    button_text: 'About Us '
+    url: https://goo.gl/forms/3qC65VbF7dmMxKJc2
+    button_text: 'Express interest here. '
   image:
     image: ''
     alt_text: ''
