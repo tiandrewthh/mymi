@@ -47,8 +47,8 @@ page_sections:
     visits.<br><br> <a href="https://goo.gl/forms/3qC65VbF7dmMxKJc2" title="Submit
     and E.O.I here! ">https://goo.gl/forms/3qC65VbF7dmMxKJc2</a>
   media:
-    image: uploads/2019/01/19/typewriter.gif
-    alt_text: Customize Blocks
+    image: uploads/2019/01/22/48392026_1208453455979294_6002435714938044416_o.jpg
+    alt_text: 3D Printer Labs
 - template: simple-footer
   block: footer-1
   content: Brought to you by <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwin6oDO6_jfAhU5JrkGHTYaBOIQFjAAegQIWxAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhot-beverage%2F&amp;usg=AOvVaw0KJlePCXwWJuOaMjwfX5yf">☕</a>
