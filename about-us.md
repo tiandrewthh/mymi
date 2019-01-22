@@ -7,14 +7,14 @@ page_sections:
   block: header-2
   logo: uploads/2019/01/16/test.png
   navigation:
-  - link: "/"
-    link_text: Home
   - link: "#"
     link_text: Events
-  - link: https://mymi.org.au/about-us
-    link_text: 'About Us '
   - link: "#"
     link_text: Get Involved
+  - link: "/"
+    link_text: Home
+  - link: https://mymi.org.au/about-us
+    link_text: 'About Us '
   - link_text: 'Contact Us '
     link: "#"
   cta:
