@@ -46,25 +46,6 @@ page_sections:
   media:
     image: uploads/2019/01/19/typewriter.gif
     alt_text: Customize Blocks
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: "<strong>WHAT WE DO</strong>"
-  content: "We're here to help break down silos within the Medical Technology sector
-    in Melbourne. <br><br>Front and center, <span style=\"text-decoration: underline;\">MEDHACK</span>
-    is our <em>thing</em>. It's a 2.5 day hackathon for the doers, tinkerers, dreamers
-    of Melbourne to descend and cook up potentially the next big thing in MedTech.
-    This year's theme is <span style=\"text-decoration: underline;\">assistive technology.
-    <br><br></span>Stay tuned. \U0001F4FB<br><br>Outside of that, we organize meetups,
-    networking events, panel sessions, entrepreneurship workshops / masterclasses,
-    and site events with the aim of introducing the undergraduate community to the
-    MedTech sector, whilst bridging the worlds of industry and academia.<br><br>Additionally
-    for students, we facilitate and source MedTech focused community projects (and
-    Engineering Capstone Projects) to allow for both soft skill and technical up-skilling.
-    All wrapped in a relaxed and collaborative environment."
-  media:
-    image: uploads/2019/01/21/received_544338212713300-01.jpeg
-    alt_text: working hard or hardly working
 - template: text-only-hero-banner
   block: hero-1
   heading: Highlights
