@@ -36,16 +36,15 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>JOIN THE FOUNDING COMMITTEE! WE'RE INVITING EXPRESSIONS OF INTEREST.</strong>"
-  content: Interested in medical technology, biomedical innovation, building your&nbsp;<br>network
-    (and CPD hours) and working with like minded peers to develop achieve positive
-    impact with your degree? <br><br>We're building our founding committee and are
-    dedicated to achieving positive impact through biomedical&nbsp;innovation. We
-    are aware of the limited awareness around medical&nbsp;technology and with your
-    help, we'd like to change that.<br><br>Cool projects, chill company and good vibes
-    guaranteed. <br><br>Amongst our events for the year we intend on running a hackathon
-    based&nbsp;<br>around assistive technology, as well as industry nights and industry&nbsp;<br>site
-    visits.<br><br> <a href="https://goo.gl/forms/3qC65VbF7dmMxKJc2" title="Submit
-    and E.O.I here! ">https://goo.gl/forms/3qC65VbF7dmMxKJc2</a>
+  content: 'Interested in medical technology, biomedical innovation, building your
+    <br>network (and CPD hours) and working with like minded peers to develop achieve
+    positive impact with your degree? <br><br>We''re building our founding committee.
+    We''re aware of the limited awareness around medical technology and with your
+    help, we''d like to change that.<br><br>Cool projects, chill company and good
+    vibes guaranteed. <br><br>Amongst our events for the year we intend on running
+    a hackathon based <br>around assistive technology, as well as industry nights
+    and industry <br>site visits.<br><br> Submit an EOI here: <a href="https://goo.gl/forms/3qC65VbF7dmMxKJc2"
+    title="Submit and E.O.I here! ">https://goo.gl/forms/3qC65VbF7dmMxKJc2</a>'
   media:
     image: uploads/2019/01/22/48392026_1208453455979294_6002435714938044416_o.jpg
     alt_text: 3D Printer Labs
