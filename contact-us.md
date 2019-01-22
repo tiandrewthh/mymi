@@ -22,7 +22,7 @@ page_sections:
     button_text: 'MED_HACK 2019 : ENABLED'
 - template: hero-banner-w-image
   block: hero-2
-  headline: '<strong><span style="text-decoration: underline;">NEW PHONE, WHO DIS.</span>
+  headline: '<strong><span style="text-decoration: underline;">NEW PHONE,<br>WHO DIS.</span>
     </strong>☎️'
   content: ''
   cta:
