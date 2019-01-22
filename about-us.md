@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/index"
     link_text: Home
-  - link: "/pages-get-involved "
+  - link: "/get-involved "
     link_text: Get Involved
   - link_text: 'About Us '
     link: "/about-us"
