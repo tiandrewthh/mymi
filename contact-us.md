@@ -16,7 +16,7 @@ page_sections:
   - link: "#"
     link_text: Events
   - link_text: 'Contact Us '
-    link: "#"
+    link: "/contact-us"
   cta:
     url: http://medhack.com.au/
     button_text: 'MED_HACK 2019 : ENABLED'
