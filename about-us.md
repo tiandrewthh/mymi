@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: uploads/2019/01/16/test.png
   navigation:
-  - link: "/home"
+  - link: "/index"
     link_text: Home
   - link: "/pages-get-involved "
     link_text: Get Involved
