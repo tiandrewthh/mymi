@@ -51,8 +51,8 @@ page_sections:
   heading: Highlights
 - template: 1-column-text
   block: one-column-1
-  content: Upcoming meetups, events and projects currently in the oven. Watch this
-    space! ✌️
+  content: Upcoming meetups, events and projects currently baking in the oven. Watch
+    this space! ✌️
 - template: text-only-hero-banner
   block: hero-1
   heading: Founding Partners
