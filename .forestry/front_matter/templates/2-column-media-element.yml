@@ -37,3 +37,6 @@ fields:
   - type: text
     name: caption
     label: Caption
+- type: field_group
+  name: third_image
+  label: third image
