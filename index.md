@@ -57,49 +57,12 @@ page_sections:
   block: hero-1
   heading: Founding Partners
 - template: 2-column-media-element
-  block: media-2
-  third_image:
-    '0': "/"
-    '1': u
-    '2': p
-    '3': l
-    '4': o
-    '5': a
-    '6': d
-    '7': s
-    '8': "/"
-    '9': t
-    '10': h
-    '11': e
-    '12': a
-    '13': c
-    '14': t
-    '15': u
-    '16': a
-    '17': t
-    '18': o
-    '19': r
-    '20': "-"
-    '21': l
-    '22': o
-    '23': g
-    '24': o
-    '25': "-"
-    '26': '1'
-    '27': "."
-    '28': j
-    '29': p
-    '30': g
-    third_image: uploads/theactuator-logo-1.jpg
+  block: media-4
+  headline: "# Founding Partners"
   image_1:
     image: uploads/2019/01/19/MIME_Logo.jpg
-    caption: 
   image_2:
-    image: uploads/2019/01/16/MU-Engineering.png
-    caption: 
-  headline: Founding Partners
-  logo: 
-  content: 
+    image: uploads/theactuator-logo-1.jpg
 - template: simple-footer
   block: footer-1
   content: Brought to you by <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwin6oDO6_jfAhU5JrkGHTYaBOIQFjAAegQIWxAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhot-beverage%2F&amp;usg=AOvVaw0KJlePCXwWJuOaMjwfX5yf">☕</a>
