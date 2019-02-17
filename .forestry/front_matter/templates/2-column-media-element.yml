@@ -40,3 +40,7 @@ fields:
 - type: field_group
   name: third_image
   label: third image
+  fields:
+  - type: file
+    name: third_image
+    label: third image
