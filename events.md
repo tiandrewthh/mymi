@@ -37,6 +37,11 @@ page_sections:
   content: Upcoming meetups, events and projects currently in the oven. Watch this
     space! ✌️
   headline: "UNDER CONSTRUCTION \U0001F527"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: '29/1/2019 - Pizza Sessions #1 '
+    content: <img src="/uploads/2019/02/17/pizzaseshsplash.png" alt="pizza-sesh-splash">
 - template: simple-footer
   block: footer-1
   content: Brought to you by <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=2ahUKEwin6oDO6_jfAhU5JrkGHTYaBOIQFjAAegQIWxAB&amp;url=https%3A%2F%2Femojipedia.org%2Fhot-beverage%2F&amp;usg=AOvVaw0KJlePCXwWJuOaMjwfX5yf">☕</a>
