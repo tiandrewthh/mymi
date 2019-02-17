@@ -8,7 +8,7 @@ fields:
   hidden: true
   label: block
   name: block
-  default: media-4
+  default: media-2
 - type: textarea
   name: headline
   label: Headline
