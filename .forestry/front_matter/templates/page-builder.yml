@@ -1,7 +1,6 @@
 ---
 label: page-builder
 hide_body: true
-is_partial: false
 fields:
 - type: text
   label: Title
@@ -37,7 +36,7 @@ fields:
   - 4-column-footer
 pages:
 - about-us.md
-- index.md
 - contact-us.md
 - events.md
 - get-involved.md
+- index.md
